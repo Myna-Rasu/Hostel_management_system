@@ -1,1 +1,1 @@
-#hms
+#hostel management system
